@@ -1,4 +1,7 @@
+package level1;
+
 public class Prob5 {
+    //Title : 숫자 비교하기
     class Solution {
         public int solution(int num1, int num2) {
             int answer = 0;

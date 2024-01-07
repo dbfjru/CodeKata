@@ -1,4 +1,7 @@
+package level1;
+
 public class Prob8 {
+    //Title : 각도기
     class Solution {
         public int solution(int angle) {
             int answer = 0;

@@ -1,4 +1,7 @@
+package level1;
+
 public class Prob9 {
+    //Title : 짝수의 합
     class Solution {
         public int solution(int n) {
             int answer = 0;
