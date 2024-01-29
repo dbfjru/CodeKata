@@ -7,7 +7,7 @@ public class Prob51 {
     static class Solution {
         public String solution(int[] food) {
             String answer = "";
-            int water = 1;
+            int water = 0;
             int[] servingForOne = new int[food.length-1]; //1인분 준비량
             for(int i = 1; i < food.length; i++){
                 servingForOne[i-1] = food[i]/2;
